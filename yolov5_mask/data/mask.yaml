@@ -1,4 +1,4 @@
-train: ../datasets/mask/images
-val: ../datasets/mask/images
-nc: 2
+train: ../datasets/mask/images # 训练集存放地址
+val: ../datasets/mask/images # 数据集存放地址
+nc: 2 # 总类别
 names: ['face', 'mask'] # 类别名称
