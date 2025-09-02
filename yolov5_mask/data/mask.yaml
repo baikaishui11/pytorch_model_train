@@ -1,0 +1,4 @@
+train: ../datasets/mask/images
+val: ../datasets/mask/images
+nc: 2
+names: ['face', 'mask'] # 类别名称
